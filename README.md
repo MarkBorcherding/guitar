@@ -23,7 +23,10 @@ A list of resources for learning the guitar while social distancing....or anytim
 ## DIY
 
 - [Arduino DIY Projects](https://www.electrosmash.com/)
-- [DIY Pedals](https://buildyourownclone.com/) [#2](https://www.modkitsdiy.com/)
+- [buildyourownclone](https://buildyourownclone.com/)  
+  - Pedals
+- [modkitsdiy](https://www.modkitsdiy.com/)
+  - Pedals and Amps
 
 ## Profiles
 
