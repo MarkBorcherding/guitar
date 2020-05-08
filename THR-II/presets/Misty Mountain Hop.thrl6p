@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "meta" : {
+      "name" : "Misty Mountain Hop",
+      "tnid" : 0
+    },
+    "device" : 2359296,
+    "tone" : {
+      "THRGroupGate" : {
+        "Decay" : 0.60000002384185791,
+        "@enabled" : false,
+        "@asset" : "noiseGate",
+        "Thresh" : -38
+      },
+      "THRGroupFX3EffectEcho" : {
+        "@asset" : "TapeEcho",
+        "Time" : 0.2404455691576004,
+        "Bass" : 0.43097510933876038,
+        "Treble" : 0.32632613182067871,
+        "@wetDry" : 0.33647057414054871,
+        "@enabled" : true,
+        "Feedback" : 0.27971255779266357
+      },
+      "global" : {
+        "THRPresetParamTempo" : 780
+      },
+      "THRGroupFX1Compressor" : {
+        "@enabled" : false,
+        "Sustain" : 0.30000001192092896,
+        "@asset" : "RedComp",
+        "Level" : 0.82999998331069946
+      },
+      "THRGroupFX4EffectReverb" : {
+        "@wetDry" : 0.30000001192092896,
+        "Decay" : 0.32379919290542603,
+        "@enabled" : true,
+        "PreDelay" : 0.5,
+        "@asset" : "ReallyLargeHall",
+        "Tone" : 0.5
+      },
+      "THRGroupCab" : {
+        "@asset" : "speakerSimulator",
+        "SpkSimType" : 4
+      },
+      "THRGroupFX2Effect" : {
+        "@wetDry" : 0.43000000715255737,
+        "@enabled" : false,
+        "@asset" : "BiasTremolo",
+        "Speed" : 0.2531999945640564,
+        "Depth" : 0.30616000294685364
+      },
+      "THRGroupAmp" : {
+        "Treble" : 0.45098039507865906,
+        "Bass" : 0.14117647707462311,
+        "Master" : 0.53333330154418945,
+        "@asset" : "THR10_Lead",
+        "Drive" : 0.78039216995239258,
+        "Mid" : 0.54117649793624878
+      }
+    },
+    "device_version" : 19988587
+  },
+  "meta" : {
+    "original" : 0,
+    "pbn" : 0,
+    "premium" : 0
+  },
+  "schema" : "L6Preset",
+  "version" : 5
+}
