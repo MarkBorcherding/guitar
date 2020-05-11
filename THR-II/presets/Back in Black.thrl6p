@@ -33,7 +33,7 @@
       "THRGroupFX4EffectReverb" : {
         "@wetDry" : 0.10404498875141144,
         "Decay" : 0.39221644401550293,
-        "@enabled" : false,
+        "@enabled" : true,
         "PreDelay" : 0.5,
         "@asset" : "ReallyLargeHall",
         "Tone" : 0.5
