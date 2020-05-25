@@ -5,6 +5,7 @@ A list of resources for learning the guitar while social distancing....or anytim
 ## Online Lessons
 
 - [Justin Guitar](https://www.justinguitar.com/)
+- [Song Notes](http://playsongnotes.com/)
 
 ## Beginner Songs
 
