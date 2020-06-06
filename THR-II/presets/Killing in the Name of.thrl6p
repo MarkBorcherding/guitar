@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "meta" : {
+      "name" : "Killing in the Name of",
+      "tnid" : 0
+    },
+    "device" : 2359296,
+    "tone" : {
+      "THRGroupGate" : {
+        "Decay" : 0.20499999821186066,
+        "@enabled" : true,
+        "@asset" : "noiseGate",
+        "Thresh" : -16
+      },
+      "THRGroupFX3EffectEcho" : {
+        "@asset" : "TapeEcho",
+        "Time" : 0.39100000262260437,
+        "Bass" : 0.5,
+        "Treble" : 0,
+        "@wetDry" : 0.5,
+        "@enabled" : false,
+        "Feedback" : 0.62999999523162842
+      },
+      "global" : {
+        "THRPresetParamTempo" : 110
+      },
+      "THRGroupFX1Compressor" : {
+        "@enabled" : false,
+        "Sustain" : 0.30000001192092896,
+        "@asset" : "RedComp",
+        "Level" : 0.40187495946884155
+      },
+      "THRGroupFX4EffectReverb" : {
+        "@wetDry" : 0.25489005446434021,
+        "Decay" : 0.5,
+        "@enabled" : true,
+        "PreDelay" : 0.5,
+        "@asset" : "SmallRoom1",
+        "Tone" : 0.5
+      },
+      "THRGroupCab" : {
+        "@asset" : "speakerSimulator",
+        "SpkSimType" : 4
+      },
+      "THRGroupFX2Effect" : {
+        "@wetDry" : 0.5,
+        "@enabled" : false,
+        "@asset" : "BiasTremolo",
+        "Speed" : 0.039999999105930328,
+        "Depth" : 1
+      },
+      "THRGroupAmp" : {
+        "Treble" : 0.64528948068618774,
+        "Bass" : 0.72577524185180664,
+        "Master" : 0.35294118523597717,
+        "@asset" : "THR10_Brit",
+        "Drive" : 0.38823530077934265,
+        "Mid" : 0.35822698473930359
+      }
+    },
+    "device_version" : 19988587
+  },
+  "meta" : {
+    "original" : 0,
+    "pbn" : 0,
+    "premium" : 0
+  },
+  "schema" : "L6Preset",
+  "version" : 5
+}

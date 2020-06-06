@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "meta" : {
+      "name" : "Tennessee Whiskey",
+      "tnid" : 0
+    },
+    "device" : 2359296,
+    "tone" : {
+      "THRGroupGate" : {
+        "Decay" : 0.31307870149612427,
+        "@enabled" : true,
+        "@asset" : "noiseGate",
+        "Thresh" : -70.5513916015625
+      },
+      "THRGroupFX3EffectEcho" : {
+        "@asset" : "TapeEcho",
+        "Time" : 0.39100000262260437,
+        "Bass" : 0.5,
+        "Treble" : 0,
+        "@wetDry" : 0.5,
+        "@enabled" : false,
+        "Feedback" : 0.62999999523162842
+      },
+      "global" : {
+        "THRPresetParamTempo" : 110
+      },
+      "THRGroupFX1Compressor" : {
+        "@enabled" : false,
+        "Sustain" : 0.30000001192092896,
+        "@asset" : "RedComp",
+        "Level" : 0.40187495946884155
+      },
+      "THRGroupFX4EffectReverb" : {
+        "@wetDry" : 0.22077547013759613,
+        "Decay" : 0.15000000596046448,
+        "@enabled" : true,
+        "PreDelay" : 0.10000000149011612,
+        "@asset" : "ReallyLargeHall",
+        "Tone" : 0.5
+      },
+      "THRGroupCab" : {
+        "@asset" : "speakerSimulator",
+        "SpkSimType" : 6
+      },
+      "THRGroupFX2Effect" : {
+        "@wetDry" : 0.41475695371627808,
+        "@enabled" : true,
+        "@asset" : "BiasTremolo",
+        "Speed" : 0.35792535543441772,
+        "Depth" : 0.54512441158294678
+      },
+      "THRGroupAmp" : {
+        "Treble" : 0.81960785388946533,
+        "Bass" : 0.36862745881080627,
+        "Master" : 0.35294118523597717,
+        "@asset" : "THR30_Carmen",
+        "Drive" : 0.66768878698348999,
+        "Mid" : 0.33725491166114807
+      }
+    },
+    "device_version" : 19988587
+  },
+  "meta" : {
+    "original" : 0,
+    "pbn" : 0,
+    "premium" : 0
+  },
+  "schema" : "L6Preset",
+  "version" : 5
+}
