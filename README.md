@@ -20,12 +20,19 @@ A list of resources for learning the guitar while social distancing....or anytim
 - [Day Tripper - The Beatles](https://tabs.ultimate-guitar.com/tab/the-beatles/day-tripper-official-1988433)
   - Started to figure it out by ear
   - Opening riff pretty easy
+- Tennessee Whiskey
+    - [Backing Track](https://www.youtube.com/watch?v=iKFtc8WcWPs)
+    - https://www.youtube.com/watch?v=psGJOvgZU-g
+    - https://www.youtube.com/watch?v=zMI1W85oLRo
+- Killing in the Name of
+    - [Lesson](https://www.youtube.com/watch?v=x9VN57t2IXs&t=307s)
+    - [Backing track](https://www.youtube.com/watch?v=cRLXtMIMP8)
 
 ## DIY
 
 - [electrosmash](https://www.electrosmash.com/)
   - Arduino DIY Projects
-- [buildyourownclone](https://buildyourownclone.com/)  
+- [buildyourownclone](https://buildyourownclone.com/)
   - Pedals
 - [modkitsdiy](https://www.modkitsdiy.com/)
   - Pedals and Amps
