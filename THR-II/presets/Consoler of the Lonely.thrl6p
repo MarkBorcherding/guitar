@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "meta" : {
+      "name" : "Consoler of the Lonely",
+      "tnid" : 0
+    },
+    "device" : 2359296,
+    "tone" : {
+      "THRGroupGate" : {
+        "Decay" : 0.20499999821186066,
+        "@enabled" : true,
+        "@asset" : "noiseGate",
+        "Thresh" : -65.8861083984375
+      },
+      "THRGroupFX3EffectEcho" : {
+        "@asset" : "TapeEcho",
+        "Time" : 0.39100000262260437,
+        "Bass" : 0.5,
+        "Treble" : 0,
+        "@wetDry" : 0.5,
+        "@enabled" : false,
+        "Feedback" : 0.62999999523162842
+      },
+      "global" : {
+        "THRPresetParamTempo" : 110
+      },
+      "THRGroupFX1Compressor" : {
+        "@enabled" : true,
+        "Sustain" : 0.30000001192092896,
+        "@asset" : "RedComp",
+        "Level" : 0.40187495946884155
+      },
+      "THRGroupFX4EffectReverb" : {
+        "@wetDry" : 0.10550735145807266,
+        "Decay" : 0.24639756977558136,
+        "@enabled" : true,
+        "PreDelay" : 0.27582466602325439,
+        "@asset" : "SmallRoom1",
+        "Tone" : 0.5
+      },
+      "THRGroupCab" : {
+        "@asset" : "speakerSimulator",
+        "SpkSimType" : 2
+      },
+      "THRGroupFX2Effect" : {
+        "@wetDry" : 0.5,
+        "@enabled" : false,
+        "Feedback" : 0.75999999046325684,
+        "@asset" : "Phaser",
+        "Speed" : 0.039999999105930328
+      },
+      "THRGroupAmp" : {
+        "Treble" : 0.85768401622772217,
+        "Bass" : 0.64662224054336548,
+        "Master" : 0.45942863821983337,
+        "@asset" : "THR10X_Brown2",
+        "Drive" : 0.65732061862945557,
+        "Mid" : 0.79880774021148682
+      }
+    },
+    "device_version" : 19988587
+  },
+  "meta" : {
+    "original" : 0,
+    "pbn" : 0,
+    "premium" : 0
+  },
+  "schema" : "L6Preset",
+  "version" : 5
+}
