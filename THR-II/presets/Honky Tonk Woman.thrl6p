@@ -1,46 +1,46 @@
 {
   "data" : {
     "meta" : {
-      "name" : "High and Dry",
+      "name" : "Honky Tonk Woman",
       "tnid" : 0
     },
     "device" : 2359296,
     "tone" : {
       "THRGroupGate" : {
-        "Decay" : 0.60000002384185791,
+        "Decay" : 0.2078993022441864,
         "@enabled" : true,
         "@asset" : "noiseGate",
-        "Thresh" : -38
+        "Thresh" : -60.723609924316406
       },
       "THRGroupFX3EffectEcho" : {
         "@asset" : "TapeEcho",
         "Time" : 0.39100000262260437,
-        "Bass" : 0.43097510933876038,
-        "Treble" : 0.3467387855052948,
-        "@wetDry" : 0.40000000596046448,
+        "Bass" : 0.5,
+        "Treble" : 0.25154423713684082,
+        "@wetDry" : 0.18000000715255737,
         "@enabled" : false,
-        "Feedback" : 0.35587999224662781
+        "Feedback" : 0.323527991771698
       },
       "global" : {
         "THRPresetParamTempo" : 110
       },
       "THRGroupFX1Compressor" : {
         "@enabled" : true,
-        "Sustain" : 0.57758969068527222,
+        "Sustain" : 0.79237556457519531,
         "@asset" : "RedComp",
-        "Level" : 0.67966723442077637
+        "Level" : 0.17131941020488739
       },
       "THRGroupFX4EffectReverb" : {
-        "@wetDry" : 0.57647061347961426,
-        "Decay" : 0.26117649674415588,
+        "@wetDry" : 0.47658470273017883,
+        "Decay" : 0.42823535203933716,
         "@enabled" : true,
-        "PreDelay" : 0.10000000149011612,
+        "PreDelay" : 0.42848667502403259,
         "@asset" : "ReallyLargeHall",
-        "Tone" : 0.47605878114700317
+        "Tone" : 0.37322169542312622
       },
       "THRGroupCab" : {
         "@asset" : "speakerSimulator",
-        "SpkSimType" : 11
+        "SpkSimType" : 6
       },
       "THRGroupFX2Effect" : {
         "@asset" : "StereoSquareChorus",
@@ -52,12 +52,12 @@
         "Feedback" : 0.11429891735315323
       },
       "THRGroupAmp" : {
-        "Treble" : 0.70588237047195435,
-        "Bass" : 0.47058823704719543,
-        "Master" : 0.71764707565307617,
-        "@asset" : "THR10C_Deluxe",
-        "Drive" : 0.45490196347236633,
-        "Mid" : 0.38431373238563538
+        "Treble" : 0.58904296159744263,
+        "Bass" : 0.97975212335586548,
+        "Master" : 0.63200139999389648,
+        "@asset" : "THR10_Lead",
+        "Drive" : 0.75760823488235474,
+        "Mid" : 0.45589685440063477
       }
     },
     "device_version" : 19988587
