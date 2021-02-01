@@ -36,6 +36,12 @@ A list of resources for learning the guitar while social distancing....or anytim
   - Pedals
 - [modkitsdiy](https://www.modkitsdiy.com/)
   - Pedals and Amps
+- https://www.godcityinstruments.com/
+- https://www.taydaelectronics.com/tubescreamer-diy-pcb-guitar-effect.html
+- http://www.diyguitarpedals.com.au/shop/index.php?main_page=product_info&cPath=1&products_id=31
+- https://aionfx.com/project/andromeda-natural-overdrive/
+- https://www.parasitstudio.se/store/p64/8-Bitar_PCB.html
+
 
 ## Profiles
 
